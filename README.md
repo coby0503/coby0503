@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 저는 코비인데요 🤔
 
 <!--
 **coby0503/coby0503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
